@@ -72,19 +72,19 @@ html{
     width: 30rem;
     position: absolute;
     top: -2.5rem;
-    right: -10rem;
+    right: -12rem;
     transition: transform 1s;
 }
 
 .container.change .shoe-1{
-    transform: translateX(-50rem) rotateZ(45deg);
+    transform: translateX(-55rem) rotateZ(45deg);
 }
 
 .shoe-2{
     width: 33rem;
     position: absolute;
     top: -10rem;
-    right: -45rem;
+    right: -49rem;
     transition: transform 1s;
 
 }
